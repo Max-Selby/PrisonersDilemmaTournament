@@ -1,4 +1,4 @@
-#Prisoner's Dilemma Tournament Runner
+# Prisoner's Dilemma Tournament Runner
 This program runs a tournament of the Iterated Prisoner's Dilemma.
 It is based on Axelrod's tournament and uses the same rules.
 
